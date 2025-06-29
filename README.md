@@ -1,0 +1,1 @@
+# version-snap-cli-example
